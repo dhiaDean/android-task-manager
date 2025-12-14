@@ -68,7 +68,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your.jouablidean@gmail.com](mailto:joubalidean.gmail@example.com)
+Dean - [jouablidean@gmail.com](mailto:joubalidean.gmail.com)
 Project Link: [https://github.com/dhiaDean/android-task-manager](https://github.com/dhiaDean/android-task-manager)
 
 ---
