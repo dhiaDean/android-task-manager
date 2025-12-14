@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/taskNameDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/textPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description:"
+        android:textStyle="bold"
+        android:textColor="@color/textPrimary"/>
+
+    <TextView
+        android:id="@+id/taskDescriptionDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/textPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category:"
+        android:textStyle="bold"
+        android:textColor="@color/textPrimary"/>
+
+    <TextView
+        android:id="@+id/taskCategoryDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/textPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Status:"
+        android:textStyle="bold"
+        android:textColor="@color/textPrimary"/>
+
+    <TextView
+        android:id="@+id/taskStatusDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textPrimary"/>
+
+    <Button
+        android:id="@+id/editTaskButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit Task"
+        android:textColor="@color/textPrimary"
+        android:backgroundTint="@color/primary"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        android:id="@+id/editTaskName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Edit Task Name"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone"
+        android:textColor="@color/textPrimary"
+        android:backgroundTint="@color/card"/>
+
+    <EditText
+        android:id="@+id/editTaskDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Edit Task Description"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone"
+        android:textColor="@color/textPrimary"
+        android:backgroundTint="@color/card"/>
+
+    <Spinner
+        android:id="@+id/editTaskCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:visibility="gone"
+        android:textColor="@color/textPrimary"/>
+
+    <Spinner
+        android:id="@+id/editTaskStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:visibility="gone"
+        android:textColor="@color/textPrimary"/>
+
+    <Button
+        android:id="@+id/SaveEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Edit"
+        android:layout_marginTop="5dp"
+        android:visibility="gone"
+        android:textColor="@color/textPrimary"
+        android:backgroundTint="@color/secondary"/>
+
+    <Button
+        android:id="@+id/deleteTaskButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Task"
+        android:textColor="@color/textPrimary"
+        android:backgroundTint="@color/primary"/>
+
+</LinearLayout>

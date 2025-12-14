@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+        <color name="deepBlue">#181A2F</color> <!-- Dark base blue -->
+        <color name="midnightBlue">#242E49</color> <!-- Muted navy -->
+        <color name="slateBlue">#37415C</color> <!-- Soft slate blue -->
+        <color name="peach">#FDA481</color> <!-- Warm peach accent -->
+        <color name="burntOrange">#B1482D</color> <!-- Rich burnt orange -->
+        <color name="deepMaroon">#54162B</color> <!-- Deep maroon red -->
+        <!-- Suggested Usage -->
+        <color name="primary">#37415C</color> <!-- Slate Blue as the primary shade -->
+        <color name="secondary">#FDA481</color> <!-- Peach for a vibrant secondary -->
+        <color name="background">#181A2F</color> <!-- Deep Blue as a dark background -->
+        <color name="card">#242E49</color> <!-- Midnight Blue for cards -->
+        <color name="textPrimary">#FFFFFF</color> <!-- White for text contrast -->
+        <color name="textSecondary">#FDA481</color> <!-- Peach for secondary text or highlights -->
+        <color name="divider">#37415C</color> <!-- Subtle slate blue for dividers -->
+
+    </resources>
+
+
+

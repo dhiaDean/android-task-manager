@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/rule1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rule 1: Follow instructions carefully."
+        android:textSize="18sp"
+        android:textColor="@color/textPrimary" />
+
+    <TextView
+        android:id="@+id/rule2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rule 2: Be respectful."
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/textPrimary" />
+
+    <TextView
+        android:id="@+id/rule3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rule 3: Keep the environment clean."
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/textPrimary" />
+</LinearLayout>
