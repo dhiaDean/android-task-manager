@@ -152,14 +152,7 @@ _Placeholder for app screenshots_
 
 This project is distributed under the MIT License. See `LICENSE` file for more information.
 
-### UI Template Attribution
 
-**AdminLTE** - This project's UI design is based on the AdminLTE admin dashboard template.
-
-- **AdminLTE** is licensed under the **MIT License**
-- Official website: [https://adminlte.io](https://adminlte.io)
-- The UI template and design elements are derived from AdminLTE
-- The application logic, database implementation, and Android-specific functionality are original work
 
 ### Project Credits
 
