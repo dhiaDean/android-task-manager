@@ -1,8 +1,9 @@
 # 📱 Android Task Manager
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Mobile-green.svg)
+![Java](https://img.shields.io/badge/Java-11-blue.svg)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue.svg)
+
 
 A native Android application for personal task management with user authentication, task categorization, and status tracking. Built with Java and SQLite for local data persistence.
 
